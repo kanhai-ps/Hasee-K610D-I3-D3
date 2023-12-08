@@ -6,7 +6,7 @@ Graphics           Intel HD Graphics 4600
 Memory             16G DDR3L 1600MHz(2400MHz) (8G+8G)
 Audio              Realtek USB Audio
 Ethernet           RTL8158/8111/8112
-Wi-Fi              Intel 802.11 b/g/n
+Wi-Fi              Wireless 3160
 Monitor            BOE 15.5" 1920*1080
 macOS Verison      Big Sur / Ventura
 SMBIOS             MacBookPro11,5
