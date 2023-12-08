@@ -16,3 +16,6 @@ OpenCore Version   0.8.0
 屏幕截图
 -----
 ![avatar](https://raw.githubusercontent.com/kanhai-ps/Hasee-K610D-I3-D3/main/screenshots/screenshot1.png)
+![avatar](https://raw.githubusercontent.com/kanhai-ps/Hasee-K610D-I3-D3/main/screenshots/screenshot2.png)
+![avatar](https://raw.githubusercontent.com/kanhai-ps/Hasee-K610D-I3-D3/main/screenshots/screenshot3.png)
+![avatar](https://raw.githubusercontent.com/kanhai-ps/Hasee-K610D-I3-D3/main/screenshots/screenshot4.png)
