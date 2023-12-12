@@ -1,5 +1,5 @@
 # Hasee-K610D-I3-D3
-Hackintosh OpenCore EFI for Hasee K610D-I3 D3 EFI
+Hackintosh OpenCore EFI for Hasee K610D-I3 D3
 ```
 CPU                Intel Core i3-4000M
 Graphics           Intel HD Graphics 4600
